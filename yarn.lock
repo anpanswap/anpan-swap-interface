@@ -47,10 +47,10 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@anpanswap/uikit@^0.1.58":
-  version "0.1.58"
-  resolved "https://registry.yarnpkg.com/@anpanswap/uikit/-/uikit-0.1.58.tgz#b2c832f47feb339a1b33025b8b49c00e78da10d8"
-  integrity sha512-xZzo8vd/82MIsNLNbCBwa+vjApqpRpJByX+iU8EW66WZvWTqRX4pTiUY5AEkEvudNxbtYw1Q+KIhddSX9NGRGw==
+"@anpanswap/uikit@^0.1.64":
+  version "0.1.64"
+  resolved "https://registry.yarnpkg.com/@anpanswap/uikit/-/uikit-0.1.64.tgz#bacf91f1d2a3e9d86127a0dde414781d7092131f"
+  integrity sha512-JVNldv7Sp3Z+60Fbajmsf2Eux5vAo73xLmqkP2lR4Dc180wyQOJ+B3ZfIjw3oSe5c7F5Y5EHl7Lh12ZGj2F8Ig==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

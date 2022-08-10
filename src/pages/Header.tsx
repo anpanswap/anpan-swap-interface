@@ -40,7 +40,7 @@ const Header = () => {
           id="clickExchangeHelp"
           as="a"
           external
-          href="https://docs.anpanswap.finance/#/products/anpanswap-exchange/exchange"
+          href="https://docs.anpanswap.finance/products/anpanswap-exchange"
           variant="primary"
           height="32px"
         >
